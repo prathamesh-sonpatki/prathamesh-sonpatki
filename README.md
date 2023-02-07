@@ -5,6 +5,7 @@ Building modern TSDB [Levitate](https://last9.io/products/levitate)<br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Q3p2EEucx9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cha1tanya) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_cha1tanya) [![Blog](https://img.shields.io/badge/Blogger-%231DA1F2.svg?logo=Blogger&logoColor=white)](https://prathamesh.tech) 
+<a rel="me" href="https://hachyderm.io/@Prathamesh">Mastodon</a>
 
 # 📝 Blogs
 [A practical guide for implementing SLO](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
