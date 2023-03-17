@@ -1,8 +1,12 @@
 # 💫 About Me:
+
 Building SRE tools at [Last9.io](https://last9.io)<br>
+
 Building modern Time Seris Data Warehouse [Levitate](https://last9.io/products/levitate)<br/>
+
 Building [o11y.wiki](https://o11y.wiki)
-[A day in life of an SRE](https://r9yengg.substack.com/)
+
+🗞️[A day in life of an SRE](https://r9yengg.substack.com/)
 
 
 ## 🌐 Socials:
