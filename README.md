@@ -14,6 +14,8 @@ Building [o11y.wiki](https://o11y.wiki)
 <a rel="me" href="https://hachyderm.io/@Prathamesh">Mastodon</a>
 
 # 📝 Blogs
+[Filtering Metrics by Labels using OpenTelemetry Collector](https://last9.io/blog/filtering-metrics-by-labels-in-opentelemetry-collector/)
+
 [A practical guide for implementing SLO](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
 
 [How to improve the on-call experience](https://last9.io/blog/how-to-improve-on-call-experience/)
