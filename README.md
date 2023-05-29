@@ -14,6 +14,9 @@ Building [o11y.wiki](https://o11y.wiki)
 <a rel="me" href="https://hachyderm.io/@Prathamesh">Mastodon</a>
 
 # 📝 Blogs
+
+[Understanding Metrics, Events, Logs and Traces - Key Pillars of Observability](https://last9.io/blog/understanding-metrics-events-logs-traces-key-pillars-of-observability/)
+
 [Filtering Metrics by Labels using OpenTelemetry Collector](https://last9.io/blog/filtering-metrics-by-labels-in-opentelemetry-collector/)
 
 [A practical guide for implementing SLO](https://last9.io/blog/a-practical-guide-to-implementing-slos/)
