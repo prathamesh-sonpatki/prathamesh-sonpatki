@@ -15,6 +15,16 @@ Building [o11y.wiki](https://o11y.wiki)
 
 # 📝 Blogs
 
+[Levitate - Last9’s managed TSDB is now available on the AWS Marketplace](https://last9.io/blog/levitate-last9s-managed-tsdb-is-now-available-on-the-aws-marketplace)
+
+[PromQL Macros in Levitate](https://last9.io/blog/standardize-promql-with-macros)
+
+[GCP Managed Service For Prometheus vs. Levitate](https://last9.io/blog/levitate-vs-google-managed-prometheus)
+
+[Ingest OpenTelemetry metrics with Prometheus natively](https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus)
+
+[What Is High Cardinality](https://last9.io/blog/what-is-high-cardinality)
+
 [Understanding Metrics, Events, Logs and Traces - Key Pillars of Observability](https://last9.io/blog/understanding-metrics-events-logs-traces-key-pillars-of-observability/)
 
 [Filtering Metrics by Labels using OpenTelemetry Collector](https://last9.io/blog/filtering-metrics-by-labels-in-opentelemetry-collector/)
