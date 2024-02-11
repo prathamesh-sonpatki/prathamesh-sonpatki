@@ -15,6 +15,10 @@ Building [o11y.wiki](https://o11y.wiki)
 
 # 📝 Blogs
 
+[The unresolved cost of High Cardinality](https://last9.io/blog/the-unresolved-cost-of-high-cardinality/)
+
+[SaaS Monitoring with Levitate](https://last9.io/blog/saas-monitoring-with-levitate/)
+
 [Levitate - Last9’s managed TSDB is now available on the AWS Marketplace](https://last9.io/blog/levitate-last9s-managed-tsdb-is-now-available-on-the-aws-marketplace)
 
 [PromQL Macros in Levitate](https://last9.io/blog/standardize-promql-with-macros)
