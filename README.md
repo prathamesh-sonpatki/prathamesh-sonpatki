@@ -2,7 +2,7 @@
 
 Building SRE tools at [Last9.io](https://last9.io)<br>
 
-Building modern [Time Seris Data Warehouse](https://last9.io/levitate-tsdb). It can also be used as a [Managed Service for Prometheus](https://last9.io/managed-prometheus/).<br />
+Building modern [Time Series Data Warehouse](https://last9.io/levitate-tsdb). It can also be used as a [Managed Service for Prometheus](https://last9.io/managed-prometheus/).<br />
 
 Building [o11y.wiki](https://o11y.wiki)
 
