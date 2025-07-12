@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-Building SRE tools at [Last9.io](https://last9.io)<br>
-
-Building modern [Telemetry Data Platform](https://last9.io). <br />
+Building Observability tools for AI-Native Teams at [Last9.io](https://last9.io)<br>
 
 Building [o11y.wiki](https://o11y.wiki)
 
